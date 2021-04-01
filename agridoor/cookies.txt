@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+teamaceofbotz.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1617229810|mC3gpi95eQrY
+.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1617229810|mC3gpi95eQrY
+teamaceofbotz.com	TRUE	/	FALSE	1999999999	SameSite	None
+teamaceofbotz.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=as1"
+`

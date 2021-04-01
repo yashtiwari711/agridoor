@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Thu, 01 Apr 2021 04:00:09 at https://teamaceofbotz.com/agridoor
+(httrack https://teamaceofbotz.com/agridoor -O LOCALDIRECTORY )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/agridoor/decodeURIComponent(e (from https://teamaceofbotz.com/agridoor)
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/agridoor/https: (from https://teamaceofbotz.com/agridoor)
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/agridoor/robots.txt (from https://teamaceofbotz.com/agridoor)
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/agridoor/feed.xml (from https://teamaceofbotz.com/agridoor)
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/agridoor/$&/ (from https://teamaceofbotz.com/agridoor)
+04:00:22	Error: 	"Not Found" (404) at link https://teamaceofbotz.com/ (from https://teamaceofbotz.com/agridoor)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 15 links scanned, 8 files written (2935732 bytes overall) [756837 bytes received at 50455 bytes/sec], 2953055 bytes transferred using HTTP compression in 13 files, ratio 24%, 3.7 requests per connection
+(6 errors, 0 warnings, 0 messages)
